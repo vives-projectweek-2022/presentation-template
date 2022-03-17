@@ -1,11 +1,22 @@
-# Projectweek 2022
+# Marp Presentation Template
 
 ## Presentation
 
 HTML: [View](https://vives-projectweek-2022.github.io/presentation-template/presentation.html)
-PDF: [Download](https://vives-projectweek-2022.github.io/presentation-template/presentation..pdf)
+PDF: [Download](https://vives-projectweek-2022.github.io/presentation-template/presentation.pdf)
 
-## Development
+## Getting Started
+
+1. Fork this repository
+1. In GitHub - Actions: Enable the GitHub Actions Workflows
+![Enable Actions Workflows](./assets/gh-actions.png)
+1. Push a new commit to the repository
+1. In GitHub - Settings: Select the gh-pages branch to build the GitHub pages
+![Select branch for GitHub pages](./assets/gh-pages.png)
+1. Change the URL of this README to your URL: https://yourname.github.io/presentation-template/presentation.html
+1. Push the commit to the repository
+
+## Writing slides
 
 Install the [marp cli](https://github.com/marp-team/marp-cli) tool:
 
