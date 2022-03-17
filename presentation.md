@@ -28,6 +28,8 @@ footer: "![h:40 opacity:.5](./img/vives.png) ![h:40 opacity:.5](./img/devbit_roc
 - first things first
 - second things second
 - third things third
+- fourth things fourth
+- fifth things fifth
 
 ![bg right fit](./img/idea.jpg)
 
