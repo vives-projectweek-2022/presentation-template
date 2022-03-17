@@ -31,6 +31,9 @@ footer: "![h:40 opacity:.5](./img/vives.png) ![h:40 opacity:.5](./img/devbit_roc
 - fourth things fourth
 - fifth things fifth
 
+> And you can count on yourself
+> -- Wim Helsen
+
 ![bg right fit](./img/idea.jpg)
 
 ---
