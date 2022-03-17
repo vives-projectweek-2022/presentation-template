@@ -87,4 +87,5 @@ footer: "![h:40 opacity:.5](./img/vives.png) ![h:40 opacity:.5](./img/devbit_roc
 - What are the goals for the next sprint?
 - Who is going to do what?
 - If this is the last sprint, describe what could be improved or what you could do if you had more time.
+*(use your GitKraken board to show this)*
  -->
