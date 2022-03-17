@@ -2,8 +2,8 @@
 
 ## Presentation
 
-HTML: [View](https://vives-projectweek-2022.github.io/project-introductions/project-description.html)
-PDF: [Download](https://vives-projectweek-2022.github.io/project-introductions/project-description.pdf)
+HTML: [View](https://vives-projectweek-2022.github.io/presentation-template/presentation.html)
+PDF: [Download](https://vives-projectweek-2022.github.io/presentation-template/presentation..pdf)
 
 ## Development
 
